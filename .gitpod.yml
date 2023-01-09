@@ -1,1 +1,5 @@
 image: gitpod/workspace-mysql
+
+vscode:
+  extensions:
+    - matt-rudge.auto-open-preview-panel
